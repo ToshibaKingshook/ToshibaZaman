@@ -56,11 +56,9 @@
 
 ### <h3 align="center">📈 My GitHub Stats</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ToshibaZaman&show_icons=true&theme=gotham&layout=compact" alt="ToshibaZaman /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ToshibaZaman&show_icons=true&theme=gotham" alt="ToshibaZaman /> <!--you can use merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula-->
   
   </p>
-  
-<p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=ToshibaZaman&show_icons=true&theme=gotham&layout=compact" alt="ToshibaZaman" />&nbsp;<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ToshibaZaman&" alt="ToshibaZaman" /></p>
 
 
 
